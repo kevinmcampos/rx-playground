@@ -1,4 +1,4 @@
-package me.kevincampos.rx_playground_android
+package me.kevincampos.rxplayground
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
